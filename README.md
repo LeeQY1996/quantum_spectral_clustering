@@ -4,7 +4,8 @@ The python code for quantum spectral clustering. For details of quantum spectral
 The main file is sparse spectral clustering.ipynb.
 
 ## TODOlist
-Add more detailed code comments
+Add more detailed code comments  
+
 Refactored code to make it clearer
 
 We encourage interested people to implement their own code according to the references https://arxiv.org/abs/2203.03132, which is easy.
